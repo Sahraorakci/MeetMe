@@ -1,9 +1,10 @@
 ﻿using System.Reflection;
+using Application.Mapper;
 using AutoMapper;
 using MediatR;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace ClassLibraryApplication;
+namespace Application;
 
 public static class ServiceRegistration
 {
@@ -14,7 +15,7 @@ public static class ServiceRegistration
         {
             opt.AddProfiles(new List<Profile>
             {
-                
+                new MeetingMapper()
             });
         });
     }

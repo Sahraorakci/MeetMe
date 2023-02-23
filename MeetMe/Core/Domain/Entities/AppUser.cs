@@ -1,4 +1,6 @@
-﻿namespace Domain.Entities;
+﻿using System.Text;
+
+namespace Domain.Entities;
 
 public class AppUser
 {

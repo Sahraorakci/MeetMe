@@ -1,5 +1,5 @@
 ﻿using System.Linq.Expressions;
-using ClassLibraryApplication.Interfaces;
+using Application.Interfaces;
 using Microsoft.EntityFrameworkCore;
 using Persistence.Context;
 

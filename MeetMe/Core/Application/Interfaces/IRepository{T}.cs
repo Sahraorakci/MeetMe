@@ -1,6 +1,6 @@
 ﻿using System.Linq.Expressions;
 
-namespace ClassLibraryApplication.Interfaces;
+namespace Application.Interfaces;
 
 public interface IRepository<T> where T:class , new()
 {

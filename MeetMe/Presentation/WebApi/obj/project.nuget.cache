@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "lATEt52DDIkqF/61mAKqt9BeS8KNRgvbXrIiJimK7Tbh0ImzfU/gqRXXw/4B8dq/xBMm8SXcj6ZLygBJB2ghwA==",
+  "dgSpecHash": "honIGE9ZBsZB0IbY2Pmgxh9NDH8ZCb+9wpbvoPV6EjT9exbXZJ8RndiWYNBnZk1Ic2EANb5sLGQPCGc+aqhDUw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Sahranur ORAKCI\\Desktop\\MeetMe\\MeetMe\\MeetMe\\Presentation\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
@@ -12,6 +12,7 @@
     "C:\\Users\\Sahranur ORAKCI\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
     "C:\\Users\\Sahranur ORAKCI\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\Sahranur ORAKCI\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "C:\\Users\\Sahranur ORAKCI\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.3\\microsoft.aspnetcore.authentication.jwtbearer.7.0.3.nupkg.sha512",
     "C:\\Users\\Sahranur ORAKCI\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.3\\microsoft.aspnetcore.openapi.7.0.3.nupkg.sha512",
     "C:\\Users\\Sahranur ORAKCI\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Sahranur ORAKCI\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
