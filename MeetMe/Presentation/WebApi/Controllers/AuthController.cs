@@ -1,4 +1,5 @@
 ﻿using Application.Constants;
+using Application.Features.CQRS.Commands;
 using Application.Features.CQRS.Queries;
 using Application.Tools;
 using MediatR;
@@ -31,5 +32,12 @@ public class AuthController : ControllerBase
        {
            return BadRequest(AuthConstants.WrongUserInfo);
        }
+    }
+
+    [HttpPost("register")]
+    public async Task<IActionResult> Register(RegisterUserCommandRequest request)
+    {
+        var result = await _mediator.Send(request);
+        return Created("", result);
     }
 }

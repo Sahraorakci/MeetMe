@@ -32,10 +32,11 @@ public class Repository<T> :IRepository<T> where T : class , new()
       
     }
 
-    public async Task CreateAsync(T entity)
+    public async Task<T?> CreateAsync(T entity)
     {
         _meetMeContext.Set<T>().Add(entity);
         await _meetMeContext.SaveChangesAsync();
+        return entity;
 
     }
 
@@ -43,12 +44,12 @@ public class Repository<T> :IRepository<T> where T : class , new()
     {
         _meetMeContext.Set<T>().Update(entity); 
         await _meetMeContext.SaveChangesAsync();
-        throw new NotImplementedException();
+      
     }
 
     public async Task Remove(T entity)
     {
         _meetMeContext.Set<T>().Remove(entity);
-        await _meetMeContext.SaveChangesAsync();
+     
     }
 }

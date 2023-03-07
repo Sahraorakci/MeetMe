@@ -17,3 +17,9 @@ C:\Users\Sahranur ORAKCI\Desktop\MeetMe\MeetMe\MeetMe\Infrastructure\Persistence
 C:\Users\Sahranur ORAKCI\Desktop\MeetMe\MeetMe\MeetMe\Infrastructure\Persistence\obj\Debug\net7.0\Persistence.pdb
 C:\Users\Sahranur ORAKCI\Desktop\MeetMe\MeetMe\MeetMe\Infrastructure\Persistence\obj\Debug\net7.0\Persistence.genruntimeconfig.cache
 C:\Users\Sahranur ORAKCI\Desktop\MeetMe\MeetMe\MeetMe\Infrastructure\Persistence\obj\Debug\net7.0\ref\Persistence.dll
+C:\Users\Sahranur ORAKCI\Desktop\MeetMe\MeetMe\MeetMe\Infrastructure\Persistence\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Sahranur ORAKCI\Desktop\MeetMe\MeetMe\MeetMe\Infrastructure\Persistence\bin\Debug\net7.0\System.IO.Pipelines.dll
+C:\Users\Sahranur ORAKCI\Desktop\MeetMe\MeetMe\MeetMe\Infrastructure\Persistence\bin\Debug\net7.0\Microsoft.Extensions.Features.dll
+C:\Users\Sahranur ORAKCI\Desktop\MeetMe\MeetMe\MeetMe\Infrastructure\Persistence\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Sahranur ORAKCI\Desktop\MeetMe\MeetMe\MeetMe\Infrastructure\Persistence\bin\Debug\net7.0\Microsoft.Net.Http.Headers.dll
+C:\Users\Sahranur ORAKCI\Desktop\MeetMe\MeetMe\MeetMe\Infrastructure\Persistence\bin\Debug\net7.0\Microsoft.AspNetCore.Connections.Abstractions.dll

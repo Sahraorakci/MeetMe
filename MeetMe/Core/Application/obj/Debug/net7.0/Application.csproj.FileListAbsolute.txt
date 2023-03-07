@@ -13,3 +13,9 @@ C:\Users\Sahranur ORAKCI\Desktop\MeetMe\MeetMe\MeetMe\Core\Application\obj\Debug
 C:\Users\Sahranur ORAKCI\Desktop\MeetMe\MeetMe\MeetMe\Core\Application\obj\Debug\net7.0\refint\Application.dll
 C:\Users\Sahranur ORAKCI\Desktop\MeetMe\MeetMe\MeetMe\Core\Application\obj\Debug\net7.0\Application.pdb
 C:\Users\Sahranur ORAKCI\Desktop\MeetMe\MeetMe\MeetMe\Core\Application\obj\Debug\net7.0\ref\Application.dll
+C:\Users\Sahranur ORAKCI\Desktop\MeetMe\MeetMe\MeetMe\Core\Application\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Sahranur ORAKCI\Desktop\MeetMe\MeetMe\MeetMe\Core\Application\bin\Debug\net7.0\System.IO.Pipelines.dll
+C:\Users\Sahranur ORAKCI\Desktop\MeetMe\MeetMe\MeetMe\Core\Application\bin\Debug\net7.0\Microsoft.Extensions.Features.dll
+C:\Users\Sahranur ORAKCI\Desktop\MeetMe\MeetMe\MeetMe\Core\Application\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Sahranur ORAKCI\Desktop\MeetMe\MeetMe\MeetMe\Core\Application\bin\Debug\net7.0\Microsoft.Net.Http.Headers.dll
+C:\Users\Sahranur ORAKCI\Desktop\MeetMe\MeetMe\MeetMe\Core\Application\bin\Debug\net7.0\Microsoft.AspNetCore.Connections.Abstractions.dll

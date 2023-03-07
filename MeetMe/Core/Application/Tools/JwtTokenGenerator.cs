@@ -24,6 +24,7 @@ public class JwtTokenGenerator
             claims: claims, notBefore: DateTime.UtcNow, expires: expireDate, signingCredentials: signinCredential);
 
         JwtSecurityTokenHandler tokenHandler = new JwtSecurityTokenHandler();
+  
         return new TokenResponseDto(tokenHandler.WriteToken(jwtSecurityToken), expireDate);
     }
 }

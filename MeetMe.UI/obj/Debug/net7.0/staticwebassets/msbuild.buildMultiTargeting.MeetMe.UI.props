@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MeetMe.UI.props" />
+</Project>
